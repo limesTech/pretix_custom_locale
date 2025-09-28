@@ -28,7 +28,7 @@ msgstr "Deutsch"
 
 #: pretix/_base_settings.py:89
 msgid "German (informal)"
-msgstr "Deutsch (Du)"
+msgstr "Deutsch (Du) JDAV Hessen"
 
 #: pretix/_base_settings.py:90
 msgid "Arabic"
