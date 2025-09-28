@@ -1,1 +1,0 @@
-This is a modified version of Bootstrap 3.x. We removed stuff we did not need and migrated stuff to CSS variables instead of SCSS variables.
