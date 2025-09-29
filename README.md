@@ -2,7 +2,7 @@ pretix_custom_locale
 ======
 This is a project from JDAV Hessen to adjust pretix translations according to there needs of registration and sign up for events and training courses 
 
-for useage these po files must be compiled to mo files
+for usage these .po files must be compiled to .mo files
 
 
 
